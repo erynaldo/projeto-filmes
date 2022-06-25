@@ -253,11 +253,11 @@ p {
 
 /* Rodapé */
 #rodape {
-    height: 70px;
+    padding: 25px 0;
     background-image: linear-gradient(60deg, #c64ee4 0%, #5628a0 50%, #061d5e 100%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: block;
+    text-align: center;
+    color: #ffffff;
 }
 
 #rodape h5{
